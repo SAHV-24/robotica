@@ -1,0 +1,1 @@
+VIDRIO = 'Vidrio templado'
